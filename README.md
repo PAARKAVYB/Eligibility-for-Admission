@@ -11,7 +11,7 @@ Step 2: Create variables of respective data types to store marks and name.
 Step 3: Calculate the total and store it.
 
 Step 4: The conditions for admission are:
-Marks in maths >= 65 & Marks in physics >=55 & Marks in chemistry >=50 & Total marks in all three subjects >= 180 or total in maths and physics >= 140
+Marks in maths >= 65 & Marks in physics >=55 & Marks in chemistry >=50 & Total marks in all three subjects >= 180 or total in maths and physics >= 140.
 
 Step 5: Use Nested if to check whether someone is eligible for admission or not.
 
